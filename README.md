@@ -35,4 +35,4 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/sport-scoreboard.git
+   git clone  https://github.com/Spy230/game-board/tree/master
